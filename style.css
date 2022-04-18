@@ -34,3 +34,17 @@
    top: 130px;
    left: 50px; 
 }
+
+.miniproject1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    top: 460px;
+    left: 600px;
+}
+
+.miniproject1video {
+    position: absolute;
+    top: 10px;
+    left: 130px; 
+}
