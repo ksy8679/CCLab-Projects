@@ -34,7 +34,7 @@ canvas {
   justify-content: space-between;
   align-items: center;
   position: absolute;
-  top: 190px;
+  top: 210px;
   right: 440px;
   color: white;
   font-family: 'Open Sans', sans-serif;
@@ -49,7 +49,7 @@ canvas {
 .content {
   line-height: 40px;
   position: absolute;
-  top: 350px;
+  top: 370px;
   right: 170px;
   color: white;
   font-family: 'Open Sans', sans-serif;
@@ -71,8 +71,19 @@ canvas {
 
 .projecttitle {
   font-family: 'Archivo', sans-serif;
-  font-size: 20px;
+  font-size: 30px;
+  color: white;
   position: absolute;
-  top: 100px;
+  top: 200px;
+  right: 435px;
+}
+
+.homebutton {
+  text-decoration: none;
+  position: absolute;
+  top: 40px;
   right: 100px;
+  font-family: 'Akshar', sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
 }
