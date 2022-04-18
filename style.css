@@ -1,0 +1,22 @@
+* {
+    margin: 0vh;
+    padding: 0vh;
+}
+
+.background {
+    min-height: 100vh;
+    width: cover;
+    background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)),url(IMGS/IMG.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+    padding: 0.7cm;
+}
