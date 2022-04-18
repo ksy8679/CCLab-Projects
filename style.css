@@ -26,13 +26,13 @@
     font-style:normal;
     position:absolute;
     top: 460px;
-    left: 170px;
+    left: 200px;
 }
 
 .projectvideo {
    position: absolute;
    top: 130px;
-   left: 50px; 
+   left: 80px; 
 }
 
 .miniproject1 {
@@ -40,11 +40,39 @@
     font-style:normal;
     position:absolute;
     top: 460px;
-    left: 600px;
+    left: 555px;
 }
 
 .miniproject1video {
     position: absolute;
-    top: 10px;
-    left: 130px; 
+    top: 130px;
+    left: 470px; 
+}
+
+.miniproject2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    top: 460px;
+    right: 668px;
+}
+
+.miniproject2video {
+    position: absolute;
+    top: 130px;
+    right: 553px; 
+}
+
+.miniproject3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    top: 460px;
+    right: 200px;
+}
+
+.miniproject3video {
+    position: absolute;
+    top: 130px;
+    right: 100px; 
 }
