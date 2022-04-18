@@ -22,11 +22,21 @@
 }
 
 .projectAlink {
+    color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-style:normal;
     position:absolute;
     top: 460px;
     left: 220px;
+}
+
+.link {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    top: 500px;
+    left: 197px;
 }
 
 .projectvideo {
@@ -43,6 +53,15 @@
     left: 580px;
 }
 
+.link1 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    top: 500px;
+    left: 563px;
+}
+
 .miniproject1video {
     position: absolute;
     top: 130px;
@@ -55,6 +74,15 @@
     position:absolute;
     top: 460px;
     right: 614px;
+}
+
+.link2 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    top: 500px;
+    right: 160px;
 }
 
 .miniproject2video {
@@ -71,6 +99,15 @@
     right: 190px;
 }
 
+.link3 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    top: 500px;
+    right: 601px;
+}
+
 .miniproject3video {
     position: absolute;
     top: 130px;
@@ -83,6 +120,15 @@
     position:absolute;
     bottom: 40px;
     left: 368px;
+}
+
+.link4 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    bottom: 0px;
+    left: 348px;
 }
 
 .miniproject4video {
@@ -99,6 +145,15 @@
     left: 830px;
 }
 
+.link5 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    bottom: 0px;
+    left: 808px;
+}
+
 .miniproject5video {
     position: absolute;
     bottom: 65px;
@@ -111,6 +166,15 @@
     position:absolute;
     bottom: 40px;
     right: 368px;
+}
+
+.link6 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    bottom: 0px;
+    right: 343px;
 }
 
 .miniproject6video {
