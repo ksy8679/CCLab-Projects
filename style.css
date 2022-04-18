@@ -26,13 +26,13 @@
     font-style:normal;
     position:absolute;
     top: 460px;
-    left: 200px;
+    left: 220px;
 }
 
 .projectvideo {
    position: absolute;
    top: 130px;
-   left: 80px; 
+   left: 100px; 
 }
 
 .miniproject1 {
@@ -40,13 +40,13 @@
     font-style:normal;
     position:absolute;
     top: 460px;
-    left: 555px;
+    left: 580px;
 }
 
 .miniproject1video {
     position: absolute;
     top: 130px;
-    left: 470px; 
+    left: 495px; 
 }
 
 .miniproject2 {
@@ -54,13 +54,13 @@
     font-style:normal;
     position:absolute;
     top: 460px;
-    right: 668px;
+    right: 614px;
 }
 
 .miniproject2video {
     position: absolute;
     top: 130px;
-    right: 553px; 
+    right: 527px; 
 }
 
 .miniproject3 {
@@ -68,7 +68,7 @@
     font-style:normal;
     position:absolute;
     top: 460px;
-    right: 200px;
+    right: 190px;
 }
 
 .miniproject3video {
@@ -76,3 +76,44 @@
     top: 130px;
     right: 100px; 
 }
+
+.miniproject4 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    bottom: 40px;
+    left: 368px;
+}
+
+.miniproject4video {
+    position: absolute;
+    bottom: 65px;
+    left: 250px; 
+}
+
+.miniproject5 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    bottom: 40px;
+    left: 830px;
+}
+
+.miniproject5video {
+    position: absolute;
+    bottom: 65px;
+    left: 700px; 
+}
+
+.miniproject6 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+    position:absolute;
+    bottom: 40px;
+    right: 368px;
+}
+
+.miniproject6video {
+    position: absolute;
+    bottom: 65px;
+    right: 250px;
