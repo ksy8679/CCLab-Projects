@@ -1,7 +1,92 @@
-html, body {
-  margin: 0;
-  padding: 0;
+* {
+  margin: 0vh;
+  padding: 0vh;
 }
+
+.background {
+  min-height: 100vh;
+  width: cover;
+  background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)),url(IMG.jpeg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Bebas Neue', cursive;
+  padding: 0.7cm;
+}
+
 canvas {
+  background-color: white;
+  padding: 5px;
   display: block;
+  position: absolute;
+  bottom: 140px;
+  left: 200px;
+  z-index: 1;
+}
+
+.shadow {
+  position: absolute;
+  bottom: 140px;
+  left: 200px;
+  width: 16.5cm;
+  height: 16.5cm;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px 10px;
+}
+
+.heading {
+  display: flex;
+  padding: 2% 6%;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 320px;
+  right: 544px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  z-index: 1;
+}
+
+.heading ul li {
+  list-style: none;
+  padding: 8px 12px;
+}
+
+.content {
+  line-height: 40px;
+  position: absolute;
+  top: 270px;
+  right: 250px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  word-wrap: break-word;
+  width: 14cm;
+  background: rgba(4,9,30,0.3);
+  padding: 210px 20px 30px 20px;
+}
+.projecttitle {
+  font-family: 'Archivo', sans-serif;
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  top: 310px;
+  right: 626px;
+  z-index: 1;
+}
+
+.homebutton {
+  text-decoration: none;
+  position: absolute;
+  top: 40px;
+  right: 100px;
+  font-family: 'Akshar', sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
 }
