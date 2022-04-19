@@ -26,17 +26,17 @@ canvas {
   padding: 5px;
   display: block;
   position: absolute;
-  bottom: 140px;
-  left: 200px;
+  bottom: 200px;
+  left: 250px;
   z-index: 1;
 }
 
 .shadow {
   position: absolute;
-  bottom: 140px;
-  left: 200px;
-  width: 16.5cm;
-  height: 16.5cm;
+  bottom: 200px;
+  left: 250px;
+  width: 13.5cm;
+  height: 13.5cm;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px 10px;
 }
 
@@ -46,7 +46,7 @@ canvas {
   justify-content: space-between;
   align-items: center;
   position: absolute;
-  top: 320px;
+  top: 380px;
   right: 544px;
   color: white;
   font-family: 'Open Sans', sans-serif;
@@ -61,7 +61,7 @@ canvas {
 .content {
   line-height: 40px;
   position: absolute;
-  top: 270px;
+  top: 330px;
   right: 250px;
   color: white;
   font-family: 'Open Sans', sans-serif;
@@ -76,8 +76,8 @@ canvas {
   font-size: 30px;
   color: white;
   position: absolute;
-  top: 310px;
-  right: 626px;
+  top: 365px;
+  right: 570px;
   z-index: 1;
 }
 
