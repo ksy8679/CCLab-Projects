@@ -33,10 +33,10 @@ canvas {
 
 .shadow {
   position: absolute;
-  bottom: 180px;
-  left: 300px;
-  width: 11.9cm;
-  height: 14.55cm;
+  bottom: 140px;
+  left: 200px;
+  width: 16.5cm;
+  height: 16.5cm;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px 10px;
 }
 
