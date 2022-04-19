@@ -81,11 +81,11 @@ canvas {
   font-size: 20px;
 }
 
-.shadow6 {
+.shadow {
   position: absolute;
-  bottom: 70px;
-  right: 250px;
-  width: 8.45cm;
-  height: 8.45cm;
+  bottom: 50px;
+  left: 130px;
+  width: 21.15cm;
+  height: 21.15cm;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px 10px;
 }
