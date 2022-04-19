@@ -24,8 +24,9 @@
 canvas {
   display: block;
   position: absolute;
-  bottom: 70px;
-  left: 150px;
+  bottom: 50px;
+  left: 130px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 .heading {
@@ -34,8 +35,8 @@ canvas {
   justify-content: space-between;
   align-items: center;
   position: absolute;
-  top: 210px;
-  right: 440px;
+  top: 240px;
+  right: 425px;
   color: white;
   font-family: 'Open Sans', sans-serif;
   z-index: 1;
@@ -49,24 +50,15 @@ canvas {
 .content {
   line-height: 40px;
   position: absolute;
-  top: 370px;
-  right: 170px;
+  top: 190px;
+  right: 140px;
   color: white;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
   word-wrap: break-word;
   width: 14cm;
-  background-color: transparent;
-}
-
-.box {
-  position: absolute;
-  top: 170px;
-  left: 110px;
-  font-family: 'Open Sans', sans-serif;
-  color: white;
-  background-color: white;
-  padding: 390px
+  background: rgba(4,9,30,0.3);
+  padding: 210px 20px 30px 20px;
 }
 
 .projecttitle {
@@ -74,8 +66,9 @@ canvas {
   font-size: 30px;
   color: white;
   position: absolute;
-  top: 200px;
-  right: 435px;
+  top: 225px;
+  right: 420px;
+  z-index: 1;
 }
 
 .homebutton {
