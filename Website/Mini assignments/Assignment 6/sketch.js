@@ -14,7 +14,7 @@ let dancer;
 
 function setup() {
   // no adjustments in the setup function needed...
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(400, 400);
   // ...except to adjust the dancer's name on the next line:
   dancer = new KimberlyDancer(width / 2, height / 2);
   
