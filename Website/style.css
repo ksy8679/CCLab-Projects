@@ -43,7 +43,7 @@
    position: absolute;
    top: 130px;
    left: 100px;
-   box-shadow: inset rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; 
+   z-index: 1;
 }
 
 .miniproject1 {
@@ -67,6 +67,7 @@
     position: absolute;
     top: 130px;
     left: 495px; 
+    z-index: 1;
 }
 
 .miniproject2 {
@@ -90,6 +91,7 @@
     position: absolute;
     top: 130px;
     right: 527px; 
+    z-index: 1;
 }
 
 .miniproject3 {
@@ -113,6 +115,7 @@
     position: absolute;
     top: 130px;
     right: 100px; 
+    z-index: 1;
 }
 
 .miniproject4 {
@@ -136,6 +139,7 @@
     position: absolute;
     bottom: 65px;
     left: 250px; 
+    z-index: 1;
 }
 
 .miniproject5 {
@@ -159,6 +163,7 @@
     position: absolute;
     bottom: 65px;
     left: 700px; 
+    z-index: 1;
 }
 
 .miniproject6 {
@@ -182,4 +187,66 @@
     position: absolute;
     bottom: 65px;
     right: 250px;
+    z-index: 1;
+}
+.shadow {
+    position: absolute;
+    top: 130px ;
+    left: 100px;
+    width: 8.45cm;
+    height: 8.45cm;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.shadow1 {
+    position: absolute;
+    top: 130px ;
+    left: 527px;
+    width: 6.74cm;
+    height: 8.47cm;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px 10px;
+}
+
+.shadow2 {
+    position: absolute;
+    top: 130px ;
+    left: 120px;
+    width: 8.45cm;
+    height: 8.45cm;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px 10px;
+}
+.shadow3 {
+    position: absolute;
+    top: 130px ;
+    left: 100px;
+    width: 8.45cm;
+    height: 8.45cm;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.shadow4 {
+    position: absolute;
+    top: 130px ;
+    left: 100px;
+    width: 8.45cm;
+    height: 8.45cm;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.shadow5 {
+    position: absolute;
+    top: 130px ;
+    left: 100px;
+    width: 8.45cm;
+    height: 8.45cm;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.shadow6 {
+    position: absolute;
+    top: 130px ;
+    left: 100px;
+    width: 8.45cm;
+    height: 8.45cm;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
